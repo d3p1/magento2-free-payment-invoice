@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @description Events config
+ * @author      C. M. de Picciotto <d3p1@d3p1.dev> (https://d3p1.dev/)
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:Event/etc/events.xsd">
+    <!--
+    /**
+     * @note Check order created on checkout
+     *       and create invoice if order is a free order
+     */
+    -->
+    <event name="checkout_submit_all_after">
+        <observer name="d3p1_free_payment_invoice_observer_create_invoice"
+                  instance="D3p1\FreePaymentInvoice\Observer\CreateInvoice"/>
+    </event>
+</config>

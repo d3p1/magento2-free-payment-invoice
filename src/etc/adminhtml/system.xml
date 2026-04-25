@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @description System configuration
+ * @author      C. M. de Picciotto <d3p1@d3p1.dev> (https://d3p1.dev/)
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
+    <system>
+        <section id="payment">
+            <group id="free">
+                <field id="generate_invoice_automatically" translate="label" type="select" sortOrder="1000000"
+                       showInDefault="1" showInWebsite="1" showInStore="0" canRestore="1">
+                    <label>Generate Invoice Automatically</label>
+                    <source_model>Magento\Config\Model\Config\Source\Yesno</source_model>
+                </field>
+            </group>
+        </section>
+    </system>
+</config>
