@@ -32,7 +32,8 @@ bin/magento cache:flush
 > [!NOTE]
 > To execute `bin/magento setup:static-content:deploy` you need to list all the
 > languages of your store/s using the
-> ISO-639 format. Also, if you are using a platform mode different than
+> [ISO-639 format](http://en.wikipedia.org/wiki/List_of_ISO_639_language_codes).
+> Also, if you are using a platform mode different than
 `production`, you need to execute the command
 > using the `-f` flag: [
 `bin/magento setup:static-content:deploy -f`](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli-subcommands-static-view.html).
