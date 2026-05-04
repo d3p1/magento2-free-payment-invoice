@@ -17,7 +17,7 @@
     "magento/framework": "~101.0||~102.0||~103.0",
     "magento/module-sales": "~103.0",
     "magento/module-payment": "~100.0",
-    "bina/module-instant-invoice": "^1.0.0"
+    "d3p1/module-instant-invoice": "^1.0.0"
   },
   "autoload": {
     "files": [
