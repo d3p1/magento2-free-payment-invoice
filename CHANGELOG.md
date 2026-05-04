@@ -4,6 +4,14 @@
 ### Bug Fixes
 
 * adjust instant invoice dependency [[#1](https://github.com/d3p1/magento2-free-payment-invoice/issues/1)] ([3046c31](https://github.com/d3p1/magento2-free-payment-invoice/commit/3046c311c30521702c701d8c54129e18cc91876f))
+* force patch release [[#1](https://github.com/d3p1/magento2-free-payment-invoice/issues/1)] ([6996fa4](https://github.com/d3p1/magento2-free-payment-invoice/commit/6996fa43fd64a46110f4f95e0ac365add5d6a553))
+
+## [1.0.1](https://github.com/d3p1/magento2-free-payment-invoice/compare/v1.0.0...v1.0.1) (2026-05-04)
+
+
+### Bug Fixes
+
+* adjust instant invoice dependency [[#1](https://github.com/d3p1/magento2-free-payment-invoice/issues/1)] ([3046c31](https://github.com/d3p1/magento2-free-payment-invoice/commit/3046c311c30521702c701d8c54129e18cc91876f))
 
 # 1.0.0 (2026-05-04)
 
