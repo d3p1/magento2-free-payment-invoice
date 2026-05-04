@@ -1,6 +1,6 @@
 {
   "name": "@d3p1/module-free-payment-invoice",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Free payment invoice",
   "private": true,
   "scripts": {
