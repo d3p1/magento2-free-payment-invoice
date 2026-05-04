@@ -39,8 +39,8 @@ bin/magento cache:flush
 
 > [!NOTE]
 > The command `bin/magento cache:flush`
->
-is [optional](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli-subcommands-cache.html#config-cli-subcommands-cache-clean).
+> is
+[optional](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli-subcommands-cache.html#config-cli-subcommands-cache-clean).
 
 ## Changelog
 
