@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/d3p1/magento2-free-payment-invoice/compare/v1.0.1...v1.0.2) (2026-05-05)
+
+
+### Bug Fixes
+
+* adjust coding style guidelines [[#1](https://github.com/d3p1/magento2-free-payment-invoice/issues/1)] ([10f7aac](https://github.com/d3p1/magento2-free-payment-invoice/commit/10f7aac224bb0265a8448b458095c6f671adb1d1))
+
 ## [1.0.1](https://github.com/d3p1/magento2-free-payment-invoice/compare/v1.0.0...v1.0.1) (2026-05-04)
 
 
