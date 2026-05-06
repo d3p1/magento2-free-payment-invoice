@@ -1,6 +1,7 @@
 {
     "name": "d3p1/module-free-payment-invoice",
     "description": "Free payment invoice",
+    "type": "magento2-module",
     "license": [
         "MIT"
     ],
