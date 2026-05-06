@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/d3p1/magento2-free-payment-invoice/compare/v1.0.4...v1.0.5) (2026-05-06)
+
+
+### Bug Fixes
+
+* add missing module type [[#1](https://github.com/d3p1/magento2-free-payment-invoice/issues/1)] ([cde7e80](https://github.com/d3p1/magento2-free-payment-invoice/commit/cde7e808dd3c70ceb0276a82d5aff015c8f30058))
+
 ## [1.0.4](https://github.com/d3p1/magento2-free-payment-invoice/compare/v1.0.3...v1.0.4) (2026-05-06)
 
 
